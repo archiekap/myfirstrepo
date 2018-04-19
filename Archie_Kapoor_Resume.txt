@@ -1,0 +1,44 @@
+﻿ARCHIE KAPOOR
+DevOps Engineer
+E-mail: archiekapoor194@gmail.com
+Phone: 7053046416
+LinkedIn: www.linkedin.com/in/archiekapoor
+
+EXPERIENCE
+
+DEVOPS ENGINEER
+
+ - 
+2016- Present
+Implemented Linux Administration for in-house team, Implemented ANSIBLE modules for in-house team, Deployment of Microsoft DSC modules on azure and non-azure windows servers, Deployed Microsoft DSC modules for in-house team, Undergone vendor based training for ANSIBLE, Integration of CHEF and GITHUB based on SSH communication between server and GITHUB by using shell and powershell scripting for Linux and Windows servers on AWS, Deployed cookbooks like Apache, IIS, Adobe Reader, Splunk using CHEF local mode and implementation of CHEF client scheduling, Delivered CHEF training of L1+ level to internal team, Integrated My Cloud environment with CHEF by setting up its infrastructure on My Cloud servers
+
+
+
+Current Learning
+RHCSA  CERTIFICATION STUDY (EXAM TENTATIVELY SCHEDULED FOR MARCH,2018)
+
+
+2018-01-Present
+AMAZON AWS CERTIFIED SOLUTIONS ARCHITECT CERTIFICATION STUDY
+
+
+2018-02-Present
+MICROSOFT SCOM 2012 
+
+
+2018-01-Present
+DR APJ ABDUL KALAM TECHNICAL UNIVERSITY   B.TECH (ELECTRONICS & COMMUNICATION)
+
+
+2012-08 - 2016-06
+
+SKILLS
+LINUX, CHEF
+
+, ANSIBLE
+
+, AMAZON AWS
+
+, Microsoft SCOM
+
+DevOps Engineer with 1 year and 6 months proficiency in automation tools like Chef, Ansible and Puppet with strong foundation in Linux (RHEL).   
